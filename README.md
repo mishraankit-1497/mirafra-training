@@ -2,3 +2,4 @@
 1. Folder structure
 2. Virtual DOM
 3. Named and default exports
+4. Babel transpiler
